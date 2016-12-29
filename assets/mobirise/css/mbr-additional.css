@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 
 
 
@@ -567,7 +568,7 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #header2-1g .mbr-section-text {
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Merriweather', serif;
 }
 #header2-1h P {
   font-size: 14px;
@@ -606,9 +607,6 @@ h6,
   font-size: 20px;
   font-family: 'Droid Sans', sans-serif;
 }
-
-
-
 
 
 #menu-2o .hide-buttons .nav-btn {
@@ -674,16 +672,6 @@ h6,
 #menu-2o .link[aria-expanded="true"],
 #menu-2o .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
-}
-#features3-2a P {
-  font-family: 'Droid Sans', sans-serif;
-}
-#features3-2a H4 {
-  font-family: 'Droid Sans', sans-serif;
-}
-#buttons1-2c .btn {
-  font-family: 'Droid Sans', sans-serif;
-  font-size: 15px;
 }
 
 
@@ -762,8 +750,6 @@ h6,
 
 
 
-
-
 #menu-2o .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -828,15 +814,8 @@ h6,
 #menu-2o .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
-#features3-2p H4 {
-  font-size: 17px;
-  font-family: 'Droid Sans', sans-serif;
-}
 #content1-2q P {
   text-align: left;
-  font-family: 'Droid Sans', sans-serif;
-}
-#features3-2r P {
   font-family: 'Droid Sans', sans-serif;
 }
 #content1-2t P {
@@ -919,8 +898,10 @@ h6,
 #header1-l .mbr-section-title {
   color: #000000;
   font-family: 'Droid Sans', sans-serif;
+  font-size: 48px;
 }
 #header1-l .mbr-section-lead {
   color: #000000;
   font-family: 'Droid Sans', sans-serif;
+  font-size: 20px;
 }
