@@ -676,6 +676,7 @@ h6,
 
 
 
+
 #menu-2o .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -743,6 +744,11 @@ h6,
 #header1-2n .mbr-section-lead {
   color: #ffffff;
   font-family: 'Droid Sans', sans-serif;
+  font-size: 17px;
+}
+#header1-2n .mbr-section-title {
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 60px;
 }
 
 
@@ -904,4 +910,142 @@ h6,
   color: #000000;
   font-family: 'Droid Sans', sans-serif;
   font-size: 20px;
+}
+
+
+#menu-3f .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3f .navbar-caption {
+  color: #ffffff;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 17px;
+}
+#menu-3f .navbar-toggler {
+  color: #000000;
+}
+#menu-3f .close-icon::before,
+#menu-3f .close-icon::after {
+  background-color: #000000;
+}
+#menu-3f .link,
+#menu-3f .dropdown-item {
+  color: #000000;
+  font-family: 'Droid Sans', sans-serif;
+}
+#menu-3f .link {
+  font-size: 0.75rem;
+}
+#menu-3f .dropdown-item,
+#menu-3f .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-3f .link:hover,
+#menu-3f .dropdown-item:hover,
+#menu-3f .link:focus,
+#menu-3f .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-3f .link[aria-expanded="true"],
+#menu-3f .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-3f .nav-dropdown-sm .link:focus,
+#menu-3f .nav-dropdown-sm .link:hover,
+#menu-3f .nav-dropdown-sm .dropdown-item:focus,
+#menu-3f .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-3f .navbar,
+#menu-3f .nav-dropdown-sm,
+#menu-3f .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3f .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-3f .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-3f .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3f .bg-color.transparent.opened .link:hover,
+#menu-3f .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-3f .link[aria-expanded="true"],
+#menu-3f .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+
+
+
+#menu-3j .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3j .navbar-caption {
+  color: #ffffff;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 17px;
+}
+#menu-3j .navbar-toggler {
+  color: #000000;
+}
+#menu-3j .close-icon::before,
+#menu-3j .close-icon::after {
+  background-color: #000000;
+}
+#menu-3j .link,
+#menu-3j .dropdown-item {
+  color: #000000;
+  font-family: 'Droid Sans', sans-serif;
+}
+#menu-3j .link {
+  font-size: 0.75rem;
+}
+#menu-3j .dropdown-item,
+#menu-3j .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-3j .link:hover,
+#menu-3j .dropdown-item:hover,
+#menu-3j .link:focus,
+#menu-3j .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-3j .link[aria-expanded="true"],
+#menu-3j .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-3j .nav-dropdown-sm .link:focus,
+#menu-3j .nav-dropdown-sm .link:hover,
+#menu-3j .nav-dropdown-sm .dropdown-item:focus,
+#menu-3j .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-3j .navbar,
+#menu-3j .nav-dropdown-sm,
+#menu-3j .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3j .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-3j .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-3j .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3j .bg-color.transparent.opened .link:hover,
+#menu-3j .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-3j .link[aria-expanded="true"],
+#menu-3j .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#msg-box5-3l P {
+  text-align: right;
+  font-size: 15px;
+  font-family: 'Droid Sans', sans-serif;
 }
